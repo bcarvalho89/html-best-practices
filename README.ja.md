@@ -1,4 +1,4 @@
-Translations: [English (en)](README.md) · [日本語 (ja)](README.ja.md) · [한국어 (ko)](README.ko.md)
+Translations: [English (en)](README.md) · [日本語 (ja)](README.ja.md) · [한국어 (ko)](README.ko.md) · [Português (br)](README.pt_BR.md)
 
 普通のHTMLの書き方
 ==================
